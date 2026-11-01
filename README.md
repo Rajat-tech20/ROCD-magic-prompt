@@ -109,9 +109,7 @@ magic-prompt/
 ├── SKILL.md              # The Skill instructions
 ├── README.md             # Project overview (this file)
 ├── LICENSE               # License terms
-└── tests/
-    └── test-cases.md     # Optional: prompt evaluation cases
-```
+
 
 ## Contributing
 
